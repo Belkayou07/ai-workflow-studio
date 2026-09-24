@@ -1,4 +1,4 @@
-import type { Workflow } from "@/domain/workflows"
+import type { Workflow } from "@shared/workflows"
 
 // Temporary development data. Replace this with the workflow repository later.
 export const SAMPLE_WORKFLOWS: Workflow[] = [

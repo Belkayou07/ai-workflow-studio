@@ -1,4 +1,4 @@
-import type { Workflow } from "@/domain/workflows"
+import type { Workflow } from "@shared/workflows"
 import { WorkflowEmptyState } from "./WorkflowEmptyState"
 import { WorkflowListItem } from "./WorkflowListItem"
 

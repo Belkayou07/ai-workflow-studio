@@ -1,5 +1,5 @@
 import { MoreHorizontal, Workflow as WorkflowIcon } from "lucide-react"
-import type { Workflow } from "@/domain/workflows"
+import type { Workflow } from "@shared/workflows"
 
 type WorkflowListItemProps = {
   workflow: Workflow

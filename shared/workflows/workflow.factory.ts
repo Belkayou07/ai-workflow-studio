@@ -1,4 +1,4 @@
-import type { Workflow } from "./workflow.schema"
+import type { Workflow } from "./workflow.schema.js"
 
 export function createWorkflow(
   name = "Untitled workflow",
